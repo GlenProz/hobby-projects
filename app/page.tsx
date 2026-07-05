@@ -17,8 +17,8 @@ const projects: Project[] = [
     name: "Art Search",
     description:
       "Multi-modal semantic search over 130k National Gallery of Art artworks (CLIP, MiniLM, DINOv2).",
-    href: "https://github.com/GlenProz/Multi-Modal-Semantic-Search-Engine",
-    status: "planned",
+    href: "https://nga-art-search.vercel.app",
+    status: "live",
   },
   {
     name: "Games",
