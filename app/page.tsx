@@ -10,8 +10,8 @@ const projects: Project[] = [
     name: "Newspaper Archive",
     description:
       "\"On this day\" front-page lookup from the Library of Congress's Chronicling America archive.",
-    href: "https://github.com/GlenProz/Newspaper-Archive",
-    status: "in progress",
+    href: "https://newspaper-archive.vercel.app",
+    status: "live",
   },
   {
     name: "Art Search",
