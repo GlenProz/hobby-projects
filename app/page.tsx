@@ -21,6 +21,13 @@ const projects: Project[] = [
     status: "live",
   },
   {
+    name: "Logo Design Studio",
+    description:
+      "AI logo & brand-identity generator — concepts, logo images, refinements, and a full brand kit, powered by Gemini.",
+    href: "https://logo-design-studio.vercel.app",
+    status: "in progress",
+  },
+  {
     name: "Games",
     description: "A handful of small games, not yet deployed.",
     href: "https://github.com/GlenProz/Games",
