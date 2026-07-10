@@ -28,6 +28,13 @@ const projects: Project[] = [
     status: "in progress",
   },
   {
+    name: "Sudoku Solver",
+    description:
+      "A transparent tiered Sudoku solver — naked/hidden singles, locked-candidate narrowing, and backtracking, with a full step-by-step replay of the search.",
+    href: "https://sudoku-solver-anchor-analytics.vercel.app",
+    status: "live",
+  },
+  {
     name: "Games",
     description: "A handful of small games, not yet deployed.",
     href: "https://github.com/GlenProz/Games",
