@@ -36,9 +36,10 @@ const projects: Project[] = [
   },
   {
     name: "Games",
-    description: "A handful of small games, not yet deployed.",
-    href: "https://github.com/GlenProz/Games",
-    status: "planned",
+    description:
+      "A small arcade of browser games — mouse/keyboard, no installs. Starts with Fishing; more get added as scenes.",
+    href: "https://games-anchor-analytics.vercel.app",
+    status: "live",
   },
 ];
 
